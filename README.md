@@ -1,0 +1,1 @@
+# plugins-clean-image-filenames
